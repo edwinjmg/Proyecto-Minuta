@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QfxVQsBJeRcOrP+2BPkS20fILrsWMHYIKBdgt0o2gTn2rEI2LQbr+xsZIb6Wpc6iOMepaBgBKER5Oy4+BfgtvA==",
+  "success": true,
+  "projectFilePath": "D:\\JAVIER\\PROGRAMACION\\CURSO MINTIC\\Ciclo3\\Programacion\\Proyecto\\Proyecto.App\\Proyecto.App.Dominio\\Proyecto.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ingenieria Medina\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ingenieria Medina\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

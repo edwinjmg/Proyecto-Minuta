@@ -1,0 +1,10 @@
+D:\JAVIER\PROGRAMACION\CURSO MINTIC\Ciclo3\Programacion\Proyecto\Proyecto.App\Proyecto.App.Dominio\bin\Debug\netstandard2.0\Proyecto.App.Dominio.deps.json
+D:\JAVIER\PROGRAMACION\CURSO MINTIC\Ciclo3\Programacion\Proyecto\Proyecto.App\Proyecto.App.Dominio\bin\Debug\netstandard2.0\Proyecto.App.Dominio.dll
+D:\JAVIER\PROGRAMACION\CURSO MINTIC\Ciclo3\Programacion\Proyecto\Proyecto.App\Proyecto.App.Dominio\bin\Debug\netstandard2.0\Proyecto.App.Dominio.pdb
+D:\JAVIER\PROGRAMACION\CURSO MINTIC\Ciclo3\Programacion\Proyecto\Proyecto.App\Proyecto.App.Dominio\obj\Debug\netstandard2.0\Proyecto.App.Dominio.csproj.AssemblyReference.cache
+D:\JAVIER\PROGRAMACION\CURSO MINTIC\Ciclo3\Programacion\Proyecto\Proyecto.App\Proyecto.App.Dominio\obj\Debug\netstandard2.0\Proyecto.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\JAVIER\PROGRAMACION\CURSO MINTIC\Ciclo3\Programacion\Proyecto\Proyecto.App\Proyecto.App.Dominio\obj\Debug\netstandard2.0\Proyecto.App.Dominio.AssemblyInfoInputs.cache
+D:\JAVIER\PROGRAMACION\CURSO MINTIC\Ciclo3\Programacion\Proyecto\Proyecto.App\Proyecto.App.Dominio\obj\Debug\netstandard2.0\Proyecto.App.Dominio.AssemblyInfo.cs
+D:\JAVIER\PROGRAMACION\CURSO MINTIC\Ciclo3\Programacion\Proyecto\Proyecto.App\Proyecto.App.Dominio\obj\Debug\netstandard2.0\Proyecto.App.Dominio.csproj.CoreCompileInputs.cache
+D:\JAVIER\PROGRAMACION\CURSO MINTIC\Ciclo3\Programacion\Proyecto\Proyecto.App\Proyecto.App.Dominio\obj\Debug\netstandard2.0\Proyecto.App.Dominio.dll
+D:\JAVIER\PROGRAMACION\CURSO MINTIC\Ciclo3\Programacion\Proyecto\Proyecto.App\Proyecto.App.Dominio\obj\Debug\netstandard2.0\Proyecto.App.Dominio.pdb
