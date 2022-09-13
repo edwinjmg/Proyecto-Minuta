@@ -4,10 +4,10 @@ namespace Proyecto.App.Dominio
 {
     public class SalidaVehiculo
     {
-        public int SalidaVehiculoId {get;set;}
+        public int Id {get;set;}
         public DateTime FechaHoraSalida {get;set;}
-        public int VehiculoId {get;set;}
-        public int ConductorId {get;set;}
-        public int PedidoId {get;set;}
+        public Vehiculo Vehiculo {get;set;}
+        public Conductor Conductor {get;set;}
+        public Pedido Pedido {get;set;}
     }
 }
